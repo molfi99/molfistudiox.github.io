@@ -1,0 +1,77 @@
+{
+    "FACEBOOK_INTERSTITIAL":"184669246650973_201027278348503p",
+	"FACEBOOK_NATIVEBANNER":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635p",
+	"FACEBOOK_NATIVE":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
+	
+	
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712p",
+	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110p",
+	
+    
+    "URL_BTN1":"https://cadeauforu.com/freefire/i1.webp",
+	"URL_BTN2":"https://cadeauforu.com/freefire/i2.webp",
+	"URL_BTN3":"https://cadeauforu.com/freefire/i3.webp",
+	"URL_BTN4":"https://cadeauforu.com/freefire/i4.webp",
+	"URL_BTN5":"https://cadeauforu.com/freefire/i5.webp",
+	"URL_BTN6":"https://cadeauforu.com/freefire/i5.webp",
+	
+	
+	"BTN1_SHOW":"false",
+	"BTN2_SHOW":"false",
+	"BTN3_SHOW":"true",
+	"BTN4_SHOW":"true",
+	"BTN5_SHOW":"true",
+	"BTN6_SHOW":"false",
+
+
+    "TextBTN":"hihiboy",
+	
+	"BTN1_NAME":"hihi",
+	"BTN1_LINK":"https://www.businessinsider.com/what-is-signal",
+
+
+	
+   "group1":[         
+					
+					{
+						"picture":"https://cadeauforu.com/freefire/04.webp",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nicksfreeapps",
+						"name":"1"
+					}
+	],
+	"group2":[
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/Eq6t9PpyfiLWYoYxgB1ksTayFBer2PcSZ7Nn8xkk_9PHUxVUXAo1HzdEJywowu1Ar1Qn=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nicksfreeapps",
+						"name":"9"
+					}
+	],
+	"group3":[
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/Eq6t9PpyfiLWYoYxgB1ksTayFBer2PcSZ7Nn8xkk_9PHUxVUXAo1HzdEJywowu1Ar1Qn=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nicksfreeapps",
+						"name":"00"
+					}
+	],
+	"group4":[
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/Eq6t9PpyfiLWYoYxgB1ksTayFBer2PcSZ7Nn8xkk_9PHUxVUXAo1HzdEJywowu1Ar1Qn=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nicksfreeapps",
+						"name":"00"
+					}
+	],
+	"more_apps":[
+					{
+						"picture":"http://appstoremobile.com/ICON%20NICKNAME%20100.png",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nameGeneratorbinga",
+						"name":"NICKNAME VIP FOR YOU"
+					}
+	]
+        
+       
+
+
+}
