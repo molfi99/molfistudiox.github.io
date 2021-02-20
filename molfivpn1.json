@@ -1,0 +1,52 @@
+
+{
+    
+    
+    "more_apps":[
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/EgRKM09lXtBh8Bz5cHK4OCZ-pLkuejvppdPLa1vZrUoDOMlSmU5zhBifCkWeq7Kj8Vs=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.wallpapers4kvenom",
+						"name":"4K wallpapers"
+					}
+					
+					
+	],
+	
+
+	"FACEBOOK_INTERSTITIAL" :"162256085488558_162256142155219",
+	"FACEBOOK_NATIVE"       :"162256085488558_162256135488553",
+	"FACEBOOK_NATIVE1"      :"162256085488558_162256135488553",
+	
+	
+	
+	
+	
+	"GOOGLE_INTERSTITIAL"   :"ca-app-pub-3729805432414778/3883484045",
+	"GOOGLE_NATIVE"         :"ca-app-pub-3729805432414778/4214656539",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"PRIVACY_URL":"ggg",
+
+	
+
+	
+	"FACEBOOKADSFIRST":false,
+	"BVISIBLE":true,
+
+	
+	
+	
+
+	
+	"NATIVE_RELOAD":40000
+
+
+}
