@@ -1,0 +1,50 @@
+{
+    "FACEBOOK_INTERSTITIAL":"ffffffffffffffff",
+	"FACEBOOK_NATIVEBANNER":"fffdddddfd",
+	"FACEBOOK_NATIVEBANNER1":"ddddddddddddddf",
+	"FACEBOOK_BANNER":"ddddddddddd",
+	"FACEBOOK_NATIVE":"dddddddddddddddd",
+
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712g",
+	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110h",
+	"GOOGLE_NATIVEBANNER":"ca-app-pub-3940256099942544/2247696110h",
+	"GOOGLE_NATIVEBANNER1":"ca-app-pub-3940256099942544/2247696110h",
+	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/2247696110h",
+
+	"GOOGLE_NATIVERECYCLER":"ca-app-pub-3940256099942544/2247696110g",
+	
+	"INTER_INTERVAL":3,
+	"NATIVE_INTERVAL": 30,
+
+
+
+
+    
+    "MORESHOW":"true",
+    "REVIEW":"true",
+
+
+
+	
+	"moreappsgrid":[
+					{
+						"picture":"https://play-lh.googleusercontent.com/WpU8Z7kyLwm06EEvcraYfNam0T_BV1kdXAtRWnJ1Eq6Fm7GEVJx3WNdkmGBH1mWZo-c=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.molfidvpn2021",
+						"name":"QATAR VPN"
+						"type":"open"
+					},
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/XuvAD_uDVqOOGG4EVRrIz5eiwzEiTZVjI0lCOsyaNDoALTMupT2dZ2zX-EJXlSLN8sx7=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.molfidksa2021",
+						"name":"KSA VPN"
+						"type":"open"
+					}
+					
+				
+	]
+        
+       
+
+
+}
