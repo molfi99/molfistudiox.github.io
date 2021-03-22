@@ -13,8 +13,8 @@
 
 	"GOOGLE_NATIVERECYCLER":"ca-app-pub-3940256099942544/2247696110g",
 	
-	"INTER_INTERVAL":3,
-	"NATIVE_INTERVAL": 30,
+	"INTER_INTERVAL":4,
+	"NATIVE_INTERVAL": 20,
 
 
 
@@ -22,7 +22,7 @@
     
     "MORESHOW":"true",
     "REVIEW":"true",
-	+
+	
 
 
 
