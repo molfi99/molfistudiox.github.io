@@ -1,0 +1,137 @@
+{
+    "FACEBOOK_INTERSTITIAL":"IMG_16_9_APP_INSTALL#184669246650973_201027278348503j",
+    "FACEBOOK_INTERSTITIALCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343981971313k",
+	"FACEBOOK_NATIVEBANNER":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635j",
+	"FACEBOOK_NATIVEBANNERCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647k",
+	"FACEBOOK_NATIVE":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025j",
+	"FACEBOOK_BANNER":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025j",
+	"FACEBOOK_BANNERCPM":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025j",
+	"FACEBOOK_NATIVECPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343978637980h",
+
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712",
+	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/6300978111",
+	
+	"GOOGLE_INTERSTITIALCPM":"ca-app-pub-3940256099942544/1033173712",
+	"GOOGLE_NATIVECPM":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_BANNERCPM":"ca-app-pub-3940256099942544/2247696110",
+	
+	"GOOGLE_NATIVEBANNER":"ca-app-pub-3940256099942544/2247696110",
+
+	
+	
+	
+	"BG_IMG":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/fnfserver/bgg.jpg",
+
+	"INTER_INTERVAL":2,
+	
+
+
+
+
+    "NATIVESWITCHBANNER":"true",
+    "RUN":"true",
+
+    "FACEBOOKADSFIRST":"false",
+  
+
+	
+
+	"IMAGEMAIN":"https://lh3.googleusercontent.com/ctNI8eM9QBWYAGHfJ0GmcrEkHrjkVy2PPrL4gSjvSJTCXPV7wA1jngkH_wTzzJ4x_2OYBeButaPm1demN0QMtEyR=w640-h400-e365-rj-sc0x00ffffff",
+	"MAINLINK":"https://cadeauforu.com/m1.html",
+	
+    
+    
+    
+    
+    "MAINHEIGHT":500,
+	"MAINWIDTH":0,
+	
+	"GRIDHEIGHT":500,
+	"GRIDWIDTH":0,
+
+    "Main":[
+					
+					{
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/fnfserver/fnfserver/tip1.png",
+						"link"   :"https://gamenibs.com/tips/mod-mid-fight-masses-guide-main-songs-all-modes-part-1",
+						"name"   :""
+					},
+					{
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/fnfserver/fnfserver/tip2.png",
+						"link"   :"https://gamenibs.com/tips/mod-mid-fight-masses-guide-main-songs-all-modes-part-2",
+						"name"   :""
+					},
+					{
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/fnfserver/fnfserver/tip3.png",
+						"link"   :"https://gamenibs.com/tips/hard-mode-week-7-guide-all-songs",
+						"name"   :""
+					},
+					{
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/fnfserver/fnfserver/tip4.png",
+						"link"   :"https://gamenibs.com/tips/monster-secret-song-guide",
+						"name"   :""
+					},
+					{
+						"picture":"https://github.com/molfi99/molfistudiox.github.io/blob/main/fnfserver/fnfserver/tip5.png",
+						"link"   :"https://gamenibs.com/tips/hard-mode-week-3-philly-nice-and-blammed-guide",
+						"name"   :""
+					},
+					{
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/fnfserver/fnfserver/tip6.png",
+						"link"   :"https://gamenibs.com/tips/hard-mode-week-2-guide",
+						"name"   :""
+					}
+					
+					
+	],
+
+	
+
+
+	
+
+	
+
+	
+	"VIDEOHEIGHT":500,
+	"VIDEOWIDTH":0,
+	"videos":[
+					
+					{
+						"picture":"https://i1.wp.com/www.javatuto.com/wp-content/uploads/2021/03/Friday_Night_Funkin_Game_Screenshot_01.jpg",
+						"link":"BjupJL2zqNw",
+						"name":"Mod Showcase"
+					},
+					{
+						"picture":"https://digistatement.com/wp-content/uploads/2021/04/604eb9ad1020c-min.jpg",
+						"link":"GCnLWfMlB3U",
+						"name":"Boyfriend’s Mom mod"
+					},
+					{
+						"picture":"https://art.ngfiles.com/images/1603000/1603324_starvingfortoast_pico-v-boyfriend.png",
+						"link":"CqK8V2UnD5E",
+						"name":"BF VS PICO Mod"
+					}
+	
+	],
+	
+
+
+	
+	"moreappsgrid":[
+					{
+						"picture":"https://play-lh.googleusercontent.com/9wTWs0e31MoevQQs5ajyZitkysMAq6txIwnqVFkv9vTtKEJq4Hb4RZ3ALsLsoK5_NvA=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.mlstudio.ffwalls",
+						"name":"FREE FIRE WALLPAPERS",
+						"type":"install"
+					}
+					
+					
+				
+	]
+        
+       
+
+
+}
