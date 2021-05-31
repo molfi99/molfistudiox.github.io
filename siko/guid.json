@@ -31,18 +31,23 @@
 	"GOOGLE_BANNERCPM":"ca-app-pub-3940256099942544/2247696110",
 	"GOOGLE_NATIVEBANNERCPM":"ca-app-pub-3940256099942544/2247696110",
 	
+
+
 	
 	
-	"BG_IMG":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/siko/bg.jpg",
-
-	"INTER_INTERVAL":2,
 	
+	"BG_IMG":"https://i.pinimg.com/originals/c9/2e/2e/c92e2ed14a7db606f2e50cee907ece5a.jpg",
+
+
+	"INTER_INTERVAL":5,
 
 
 
 
-    "NATIVESWITCHBANNER":"true",
+    "NATIVESWITCHBANNER":"false",
     "RUN":"true",
+    
+    "MAINADS":"true",
 
     "FACEBOOKADSFIRST":"false",
   
@@ -50,7 +55,7 @@
 	
 
 	"IMAGEMAIN":"https://play-lh.googleusercontent.com/Hb3yKJS1qWBwbEO9mdMan8oLf4LaEe-3AU1zLZWE0CyDDLEWUsrDzM4w6qkpL_nJd9If=w1440-h767-rw",
-	"MAINLINK":"https://cadeauforu.com/m1.html",
+	"MAINLINK":"https://www.agame.com/game/knife-smash-",
 	
     
     
@@ -66,39 +71,12 @@
 					
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks01.htm",
-						"type":"false"
+						"link"   :"afVnQoR4XsE",
+						"type":"true"
 					},
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks02.htm",
-						"type":"false"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks03.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks03.htm",
-						"type":"false"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks04.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks04.htm",
-						"type":"false"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks05.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks05.htm",
-						"type":"false"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks06.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks06.htm",
-						"type":"false"
-					},
-					
-	    
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks20.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks20.htm",
+						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
 						"type":"false"
 					}
 	],
@@ -117,38 +95,8 @@
 					
 					{
 						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"z3_F2Cd9fN8",
+						"link":"afVnQoR4XsE",
 						"name":"Latest One Tap Auto Headshot Trick"
-					},
-					{
-						"picture":"https://i.ytimg.com/vi/TGG1UN6xaRw/maxresdefault.jpg",
-						"link":"TGG1UN6xaRw",
-						"name":"NEW TIPS & TRICKS Which You Should Know ! FreeFire"
-					},
-					{
-						"picture":"https://i.ytimg.com/vi/R4JKc5XfKHk/maxresdefault.jpg",
-						"link":"R4JKc5XfKHk",
-						"name":"10 Best and Secret Tips and Tricks"
-					},
-					{
-						"picture":"https://i.ytimg.com/vi/-YtGCD5fFmo/maxresdefault.jpg",
-						"link":"YtGCD5fFmo",
-						"name":"TOP 5 SECRET TIPS AND TRICKS"
-					},
-					{
-						"picture":"https://i.ytimg.com/vi/f8QdK0j1QLM/maxresdefault.jpg",
-						"link":"f8QdK0j1QLM",
-						"name":"BEST TIPS & TRICKS TO PUSH RANK IN FREEFIRE"
-					},
-					{
-						"picture":"https://i.ytimg.com/vi/7ek-7ocSk9s/maxresdefault.jpg",
-						"link":"7ek-7ocSk9s",
-						"name":"NOOB To PRO Tips & Tricks"
-					},
-					{
-						"picture":"https://i.ytimg.com/vi/AEsWDiK4evI/maxresdefault.jpg",
-						"link":"AEsWDiK4evI",
-						"name":"Mysterious Temple door"
 					}
 					
 	],
