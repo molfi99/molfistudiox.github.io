@@ -67,102 +67,39 @@
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
 						"link"   :"https://maaid92.github.io/freefireassets/tricks01.htm",
-						"name"   :""
+						"type":"false"
 					},
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
 						"link"   :"https://maaid92.github.io/freefireassets/tricks02.htm",
-						"name"   :""
+						"type":"false"
 					},
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks03.webp",
 						"link"   :"https://maaid92.github.io/freefireassets/tricks03.htm",
-						"name"   :""
+						"type":"false"
 					},
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks04.webp",
 						"link"   :"https://maaid92.github.io/freefireassets/tricks04.htm",
-						"name"   :""
+						"type":"false"
 					},
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks05.webp",
 						"link"   :"https://maaid92.github.io/freefireassets/tricks05.htm",
-						"name"   :""
+						"type":"false"
 					},
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks06.webp",
 						"link"   :"https://maaid92.github.io/freefireassets/tricks06.htm",
-						"name"   :""
+						"type":"false"
 					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks07.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks07.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks08.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks08.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks09.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks09.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks10.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks10.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks11.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks11.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks12.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks12.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks13.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks13.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks14.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks14.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks15.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks15.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks16.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks16.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks17.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks17.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks18.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks18.htm",
-						"name"   :""
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks19.webp",
-						"link"   :"https://maaid92.github.io/freefireassets/tricks19.htm",
-						"name"   :""
-					},
+					
+	    
 					{
 						"picture":"https://maaid92.github.io/freefireassets/tricks20.webp",
 						"link"   :"https://maaid92.github.io/freefireassets/tricks20.htm",
-						"name"   :""
+						"type":"false"
 					}
 	],
 
