@@ -70,12 +70,32 @@
     "Main":[
 					
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/siko/siikk/tp6.png",
+						"link"   :"afVnQoR4XsE",
+						"type":"true"
+					},
+	    {
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/siko/siikk/tp1.png",
+						"link"   :"afVnQoR4XsE",
+						"type":"true"
+					},
+	    {
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/siko/siikk/tp3.png",
+						"link"   :"afVnQoR4XsE",
+						"type":"true"
+					},
+	    {
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/siko/siikk/tp4.png",
+						"link"   :"afVnQoR4XsE",
+						"type":"true"
+					},
+	    {
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/siko/siikk/tp2.png",
 						"link"   :"afVnQoR4XsE",
 						"type":"true"
 					},
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
+						"picture":"https://raw.githubusercontent.com/molfi99/molfistudiox.github.io/main/siko/siikk/tp5.png",
 						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
 						"type":"false"
 					}
